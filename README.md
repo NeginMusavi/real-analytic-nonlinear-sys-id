@@ -1,1 +1,1 @@
-# Identification-of-Analytic-Nonlinear-Dynamical-Systems
+# Identification of Analytic Nonlinear Dynamical Systems
